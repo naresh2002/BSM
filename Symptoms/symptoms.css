@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #8EE4AF;
+  z-index: 1;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 3%;
+  color:#FFFFFF !important;
+}
+.nav .nav-item .nav-link{
+  font-size: 17px;
+  font-weight: medium;
+  color: #FFFFFF !important;
+  background-color: #084184;
+  border-radius: 20px;
+  padding:8px 20px 7px 20px;
+  margin-right: 10px;
+}
+.navbar .navbar-expand-md 
+{
+    color: #000000 !important;
+    background-color: #000000 !important;
+}
+
+.symptoms{
+    display: flex;
+    align-items:flex-start;
+    justify-content: flex-start;
+}
+.symptoms_img img{ 
+    height: 70rem;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: absolute;
+    z-index: -1;
+    border: 2px solid rgb(256, 36, 36);
+    border-radius: 10px;
+ }
