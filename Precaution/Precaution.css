@@ -19,11 +19,14 @@ body{
   
 
 .class1{
-	font-size:80px;
+	padding-left: 100px;
+	padding-top: 30px;
 	color:green;
 }
 .class2{
-	font-size:50px;
+	padding-left: 100px;
+	padding-top: 30px;
+	font-size:35px;
 	color:blue;
 }
 .class3{
@@ -33,13 +36,20 @@ body{
 	color:red;
 }
 .class5{
+	padding-left: 120px;
+	padding-top: 10px;
 	color:#4A235A;
+	font-size: 20px;
 }
+
 .class6{
+	padding-left: 100px;
 	color:#7B241C;
 }
 .class7{
-	color:#2E86C1;
+	padding-left: 220px;
+	font-size: 20px;
+	color:#4A235A;
 }
 .class8{
 	color:#7D3C98;
@@ -48,12 +58,11 @@ body{
 	height:80px;
 	width:80px;
 }
-hr {
-  display: block;
-  margin-top: 2em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 5px;
+
+.options{
+	padding-left: 120px;
+	font-size: 20px;
+}
+.photos{
+	padding-left: 200px;
 }

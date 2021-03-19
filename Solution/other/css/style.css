@@ -22,6 +22,23 @@ body {
   font-size: 14px;
 }
 
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 3%;
+  color:#FFFFFF !important;
+}
+.nav .nav-item .nav-link{
+  font-size: 17px;
+  font-weight: medium;
+  color: #FFFFFF !important;
+  background-color: #084184;
+  border-radius: 20px;
+  padding:8px 20px 7px 20px;
+  margin-right: 10px;
+}
+
+
 /* line 9, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
 .message_submit_form:focus {
   outline: none;
