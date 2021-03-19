@@ -1,0 +1,22 @@
+body{
+	background-color:#8EE4AF;
+	border-style: groove ;
+    border-width: 50px;
+    border-left-width: 50px;
+    border-right-width: 50px;
+    border-color: green;
+}
+.class2{
+	font-size:50px;
+	color:blue;
+}
+hr {
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 5px;
+  border-color: green;
+}
