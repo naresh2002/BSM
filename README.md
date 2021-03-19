@@ -12,7 +12,7 @@
 4. [Isha Shaw](https://github.com/Isha307)
 
 ## Project Name: BSM
-Books Songs Meditation
+BSM - Books Songs Meditation
 
 ## Track:
  
