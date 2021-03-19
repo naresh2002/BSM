@@ -1,24 +1,51 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>BSM</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sign-in/">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/navbars/">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+ 	<head>
+	    <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <title>BSM</title>
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sign-in/">
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/navbars/">
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 
-    <!-- Bootstrap core CSS -->
+	    <!-- Bootstrap core CSS -->
 
-    <link href="solution.css" rel="stylesheet">
+	    <link href="solution.css" rel="stylesheet">
 
-  </head>
-  <body >
+	    <style>
+			.vertical-center {
+				margin: 0;
+				position: absolute;
+				left: 50%;
+				-ms-transform: translate(-50%, 0%);
+				transform: translate(-50%, 0%);
+			}
+
+			.column {
+				float: left;
+				width: 33%;
+				top: 10%;
+				padding: 10px;
+				/*height: 20px;*/
+				-ms-transform: translate(10%, 0%);
+				transform: translate(5%, 200%);
+			}
+
+			.row:after {
+				content: "";
+				display: table;
+				clear: both;
+			}
+		</style>
+
+	</head>
+
+	<body >
 		<div>
             <nav class="navbar navbar-expand-md navbar-light">
                 <a class="nav navbar-brand nav-link" href="../home/home.html">BSM</a>
@@ -40,10 +67,32 @@
                 </div>
             </nav>
         </div>
-    <div class="container-flex"> 
-  
-</div>
+    
+    	<section id="solution">
+	        <div id="solution_img">
+	            <!-- <img src="./symptoms_img.jpg" alt="Error in loading image!"> -->
+
+	        </div>
+	        <div id="solution_data">
+	        	<div class="vertical-center">
+	                <h1>SOLUTIONS</h1>
+	            </div>
+	            <div class="row">
+	            	<div align = "center" class="column">
+		                <a href="./Books/books.html">Books</a>
+		            </div>
+
+		            <div align = "center" class="column">
+		                <a href="./Songs/songs.html">Songs</a>
+		            </div>
+
+		            <div align = "center" class="column">
+		                <a href="./Game/Game.html">Game</a>
+		            </div>
+		        </div>
+	        </div>
+	    </section>
 
 
-  </body>
+	</body>
 </html>
