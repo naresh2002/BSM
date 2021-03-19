@@ -1,0 +1,42 @@
+body{
+	background-color:#CBEC90;
+}
+.class1{
+	font-size:80px;
+	color:green;
+}
+.class2{
+	font-size:50px;
+	color:blue;
+}
+.class3{
+	color:brown;
+}
+.class4{
+	color:red;
+}
+.class5{
+	color:#4A235A;
+}
+.class6{
+	color:#7B241C;
+}
+.class7{
+	color:#2E86C1;
+}
+.class8{
+	color:#7D3C98;
+}
+.class9{
+	height:80px;
+	width:80px;
+}
+hr {
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 5px;
+}
