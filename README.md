@@ -3,15 +3,16 @@
 
 ## TEAM MEMBERS
 
-1. Naresh
+1. [Naresh](https://github.com/naresh2002)
 
-2. Sukhpreet Singh
+2. [Sukhpreet Singh](https://github.com/sukhpreet-singh1)
 
-3. Akash Ramanand Rajak
+3. [Akash Ramanand Rajak](https://github.com/akash435)
 
-4. Isha Shaw
+4. [Isha Shaw](https://github.com/Isha307)
 
-## Project Name: BSM - Books Songs Meditation
+## Project Name: BSM
+Books Songs Meditation
 
 ## Track:
  
