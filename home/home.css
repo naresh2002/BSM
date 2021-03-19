@@ -1,0 +1,66 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color: #8EE4AF;
+
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 3%;
+  color:#FFFFFF !important;
+}
+.nav .nav-item .nav-link{
+  font-size: 17px;
+  font-weight: medium;
+  color: #FFFFFF !important;
+  background-color: #084184;
+  border-radius: 20px;
+  padding:8px 20px 7px 20px;
+  margin-right: 10px;
+}
+
+.quotes{
+    padding-left: 200px;
+    padding-top: 100px;
+    color: white;
+    
+}
+.quotes h1{
+    font-size: 70px ;
+    font-weight: 600;
+}
+.quotes p{
+    padding-left: 100px;
+    color:#084184;
+    font-weight: 600px;
+}
+.getstarted{
+    color:white;
+    background-color: #084184;
+    width: 100px;
+    height:40px;
+    border-radius: 30px;
+    margin-left: 80px;
+}
+.quotes h6{
+    font-size: 20px ;
+    font-weight: 600;
+    padding-left: 100px;    
+}
+.container-flex{
+    display: flex;
+}
+img{
+    width:1000px;
+    height:800px;
+    padding-top: 200px;
+    padding-left: 100px;
+    border-radius: 400px ;
+}
