@@ -6,6 +6,21 @@ body{
     border-right-width: 50px;
     border-color: green;
 }
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 3%;
+    color:#FFFFFF !important;
+  }
+  .nav .nav-item .nav-link{
+    font-size: 17px;
+    font-weight: medium;
+    color: #FFFFFF !important;
+    background-color: #084184;
+    border-radius: 20px;
+    padding:8px 20px 7px 20px;
+    margin-right: 10px;
+  }
 .class2{
 	font-size:50px;
 	color:blue;
