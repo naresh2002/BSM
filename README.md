@@ -1,5 +1,5 @@
-<h1 align="center"> <ins>BSM - Books Songs Meditation</ins> </h1>
-<h1 align="center"> <ins>Kolani Rangers (e3777f652b)</ins> </h1>
+<h1 align="center"> <ins>Kolani Rangers</ins> </h1>
+<h1 align="center"> <ins>e3777f652b</ins> </h1>
 
 ## TEAM MEMBERS
 
@@ -10,6 +10,8 @@
 3. Akash Ramanand Rajak
 
 4. Isha Shaw
+
+##Project Name : BSM - Books Songs Meditation
 
 ## Track:
  
