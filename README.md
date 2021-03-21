@@ -1,7 +1,7 @@
-<h1 align="center"> <ins>Kolani Rangers</ins> </h1>
-<h1 align="center"> <ins>e3777f652b</ins> </h1>
+<h1 align="center"> <ins>BSM - Books Songs Meditation</ins> </h1>
 
-## TEAM MEMBERS
+
+## Contributors:
 
 1. [Naresh](https://github.com/naresh2002)
 
@@ -11,13 +11,4 @@
 
 4. [Isha Shaw](https://github.com/Isha307)
 
-## Project Name: BSM
-BSM - Books Songs Meditation
 
-## Track:
- 
-* HealthCare
-
-## Problem Statement:
-
-* Mental Health is important at every stages of life but everyone is ashamed of being mentally unfit.
